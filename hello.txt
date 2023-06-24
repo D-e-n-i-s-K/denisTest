@@ -1,4 +1,8 @@
 Hello
 Hello again
 Hello again
+<<<<<<< HEAD
 Second Line in master
+
+Second Line in my second branch
+>>>>>>> my_second_branch
