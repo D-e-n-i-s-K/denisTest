@@ -6,3 +6,4 @@ Second Line in master
 
 Second Line in my second branch
 >>>>>>> my_second_branch
+Hello from main repository
